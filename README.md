@@ -1,1 +1,1 @@
-# -Odoo_Internship
+# Odoo_Internship
