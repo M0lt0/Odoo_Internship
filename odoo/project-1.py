@@ -1,7 +1,0 @@
-print("what i have learned today?" "\n")
-input("-your answer: ")
-print("What new skills i need?" "\n")
-input("-your answer: ")
-print("What is my expectations?" "\n")
-input("-your answer: ")
-print(" How was the day for me?" "\n")
